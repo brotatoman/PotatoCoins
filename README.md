@@ -6,7 +6,8 @@ DOWNLOAD:
 3) Go to the mods folder
 4) Drag and Drop the mod in
 5) You finished
-Troubleshooting
+
+Troubleshooting:
 If the mod dissapears from you folder it is likely because of another mod
 Delete all of you mods and run only the ah flipper
 Check if its working and if not, updatate java and make sure you are using 1.8.9
