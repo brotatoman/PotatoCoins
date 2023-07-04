@@ -1,11 +1,10 @@
-# PotatoCoins
-PotatoCoins is a Hypixel Skyblock ah flipper mod which helps find flips and buys them for you. Run the mod with the gui and sit back and relax as the mod will buy and sell coins faster than you ever will.
-DOWNLOAD:
-1) Download the mod
-2) In you minecraft lancher, go to installations and find 1.8.9.Then, click on the folder
-3) Go to the mods folder
-4) Drag and Drop the mod in
-5) You finished
+# ModPack
+ModPack is a Hypixel Skyblock modpack which helps with alot of QOL and other great features
+INSTALLATION
+1) In you minecraft lancher, go to installations and find 1.8.9.Then, click on the folder
+2) Go to the mods folder
+3) Drag and Drop the mod in
+4) You finished
 
 Troubleshooting:
 If the mod dissapears from you folder it is likely because of another mod
